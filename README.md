@@ -6,6 +6,7 @@
 📚 Currently learning model deployment for real-time risk forecasting with uncertainty updates
 
 ---
+
 # 💻 Tech Stack
 
 <div>
@@ -18,13 +19,16 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bramantirs&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramantirs&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
-
----
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bramantirs&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bramantirs&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
