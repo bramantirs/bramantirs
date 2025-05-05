@@ -47,5 +47,3 @@ If you enjoy or find value in my work, consider buying me a coffee or making a d
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@bramirs)
 
 </div>
-
----
