@@ -46,7 +46,7 @@
 
 ## ☕ Support Me
 
-If you enjoy or find value in my work, consider buying me a coffee or making a donation 💖
+If my work has been helpful to you, feel free to support it through a donation or by buying me a coffee.
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@bramirs)
 
