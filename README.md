@@ -1,9 +1,6 @@
 ## Hi, I'm Bramantya Irsya! 👋
 
-🚀 Risk Management within Financial and Insurance Sectors  
-📒 Documenting my journey in mastering data analytics and risk assessment  
-👨🏻‍💻 Projects reflecting continuous exploration of emerging technologies and data-driven solutions  
-📚 Currently learning model deployment for real-time risk forecasting with uncertainty updates
+Aspiring Machine Learning Engineer with a keen interest in building intelligent, data-driven solutions and exploring real-world AI applications.
 
 ---
 
@@ -30,20 +27,10 @@
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bramantirs/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bramantirs/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bramantyairsyaa@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bramantyairsyaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bramantirs/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bramantirs/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/bramantyairsyaa)
 
-</div>
-
----
-
-<div align="center">
-
-## ☕ Support Me
-
-If my work has been helpful to you, feel free to support it through a donation.
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@bramirs)
 
 </div>
